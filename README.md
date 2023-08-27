@@ -1,2 +1,2 @@
 # FoodHut
- this is FoodHut
+for restaurant services
